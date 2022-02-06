@@ -1,6 +1,6 @@
 export const handler = async () => {
     return {
         statusCode: 200,
-        body: 'ok' ,
+        body: 'howdy',
     }
 }
